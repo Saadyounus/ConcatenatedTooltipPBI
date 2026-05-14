@@ -1,0 +1,92 @@
+City,Mall,Latitude,Longitude,Shop Name,Category
+Riyadh,Riyadh Park Mall,24.7774,46.6383,Zara,Apparel
+Riyadh,Riyadh Park Mall,24.7774,46.6383,Massimo Dutti,Apparel
+Riyadh,Riyadh Park Mall,24.7774,46.6383,Virgin Megastore,Entertainment
+Riyadh,Riyadh Park Mall,24.7774,46.6383,MAC Cosmetics,Beauty
+Riyadh,Riyadh Park Mall,24.7774,46.6383,Nike,Sportswear
+Riyadh,Riyadh Park Mall,24.7774,46.6383,Jarir Bookstore,Books
+Riyadh,Riyadh Park Mall,24.7774,46.6383,Starbucks,Food & Beverage
+Riyadh,Riyadh Park Mall,24.7774,46.6383,Baskin Robbins,Food & Beverage
+Riyadh,Riyadh Park Mall,24.7774,46.6383,Swarovski,Jewellery
+Riyadh,Riyadh Park Mall,24.7774,46.6383,Centrepoint,Apparel
+Riyadh,Riyadh Park Mall,24.7774,46.6383,Al Hokair,Entertainment
+Riyadh,Riyadh Park Mall,24.7774,46.6383,Panda Supermarket,Grocery
+Riyadh,Riyadh Park Mall,24.7774,46.6383,Gym Nation,Health
+Dubai,Dubai Mall,25.1972,55.2796,Gucci,Luxury
+Dubai,Dubai Mall,25.1972,55.2796,Louis Vuitton,Luxury
+Dubai,Dubai Mall,25.1972,55.2796,Samsung Experience,Electronics
+Dubai,Dubai Mall,25.1972,55.2796,H&M,Apparel
+Dubai,Dubai Mall,25.1972,55.2796,Shake Shack,Food & Beverage
+Dubai,Dubai Mall,25.1972,55.2796,MAC Cosmetics,Beauty
+Dubai,Dubai Mall,25.1972,55.2796,Adidas,Sportswear
+Dubai,Dubai Mall,25.1972,55.2796,Kinokuniya,Books
+Dubai,Dubai Mall,25.1972,55.2796,Swarovski,Jewellery
+Dubai,Dubai Mall,25.1972,55.2796,Zara,Apparel
+Dubai,Dubai Mall,25.1972,55.2796,Cheesecake Factory,Food & Beverage
+Dubai,Dubai Mall,25.1972,55.2796,Fitness First,Health
+Dubai,Dubai Mall,25.1972,55.2796,Virgin Megastore,Entertainment
+Abu Dhabi,Yas Mall,24.4883,54.6083,Zara,Apparel
+Abu Dhabi,Yas Mall,24.4883,54.6083,Carrefour,Grocery
+Abu Dhabi,Yas Mall,24.4883,54.6083,Nike,Sportswear
+Abu Dhabi,Yas Mall,24.4883,54.6083,Starbucks,Food & Beverage
+Abu Dhabi,Yas Mall,24.4883,54.6083,Sephora,Beauty
+Abu Dhabi,Yas Mall,24.4883,54.6083,Apple Store,Electronics
+Abu Dhabi,Yas Mall,24.4883,54.6083,H&M,Apparel
+Abu Dhabi,Yas Mall,24.4883,54.6083,The Cheesecake Factory,Food & Beverage
+Abu Dhabi,Yas Mall,24.4883,54.6083,Pandora,Jewellery
+Abu Dhabi,Yas Mall,24.4883,54.6083,Virgin Megastore,Entertainment
+Abu Dhabi,Yas Mall,24.4883,54.6083,Centrepoint,Apparel
+Abu Dhabi,Yas Mall,24.4883,54.6083,Gym Nation,Health
+Abu Dhabi,Yas Mall,24.4883,54.6083,Jarir Bookstore,Books
+Doha,Mall of Qatar,25.1367,51.5333,Zara,Apparel
+Doha,Mall of Qatar,25.1367,51.5333,Carrefour,Grocery
+Doha,Mall of Qatar,25.1367,51.5333,Adidas,Sportswear
+Doha,Mall of Qatar,25.1367,51.5333,Starbucks,Food & Beverage
+Doha,Mall of Qatar,25.1367,51.5333,MAC Cosmetics,Beauty
+Doha,Mall of Qatar,25.1367,51.5333,Samsung Experience,Electronics
+Doha,Mall of Qatar,25.1367,51.5333,Massimo Dutti,Apparel
+Doha,Mall of Qatar,25.1367,51.5333,Paul Restaurant,Food & Beverage
+Doha,Mall of Qatar,25.1367,51.5333,Swarovski,Jewellery
+Doha,Mall of Qatar,25.1367,51.5333,Virgin Megastore,Entertainment
+Doha,Mall of Qatar,25.1367,51.5333,H&M,Apparel
+Doha,Mall of Qatar,25.1367,51.5333,Fitness First,Health
+Doha,Mall of Qatar,25.1367,51.5333,Jarir Bookstore,Books
+Kuwait City,The Avenues,29.3642,47.9573,Zara,Apparel
+Kuwait City,The Avenues,29.3642,47.9573,Lulu Hypermarket,Grocery
+Kuwait City,The Avenues,29.3642,47.9573,Nike,Sportswear
+Kuwait City,The Avenues,29.3642,47.9573,Starbucks,Food & Beverage
+Kuwait City,The Avenues,29.3642,47.9573,Sephora,Beauty
+Kuwait City,The Avenues,29.3642,47.9573,Samsung Experience,Electronics
+Kuwait City,The Avenues,29.3642,47.9573,H&M,Apparel
+Kuwait City,The Avenues,29.3642,47.9573,Shake Shack,Food & Beverage
+Kuwait City,The Avenues,29.3642,47.9573,Damas Jewellery,Jewellery
+Kuwait City,The Avenues,29.3642,47.9573,Cinescape,Entertainment
+Kuwait City,The Avenues,29.3642,47.9573,Centrepoint,Apparel
+Kuwait City,The Avenues,29.3642,47.9573,Fitness First,Health
+Kuwait City,The Avenues,29.3642,47.9573,Virgin Megastore,Entertainment
+Manama,City Centre Bahrain,26.2154,50.5944,Zara,Apparel
+Manama,City Centre Bahrain,26.2154,50.5944,Carrefour,Grocery
+Manama,City Centre Bahrain,26.2154,50.5944,Adidas,Sportswear
+Manama,City Centre Bahrain,26.2154,50.5944,Starbucks,Food & Beverage
+Manama,City Centre Bahrain,26.2154,50.5944,MAC Cosmetics,Beauty
+Manama,City Centre Bahrain,26.2154,50.5944,Apple Store,Electronics
+Manama,City Centre Bahrain,26.2154,50.5944,H&M,Apparel
+Manama,City Centre Bahrain,26.2154,50.5944,The Cheesecake Factory,Food & Beverage
+Manama,City Centre Bahrain,26.2154,50.5944,Damas Jewellery,Jewellery
+Manama,City Centre Bahrain,26.2154,50.5944,VOX Cinemas,Entertainment
+Manama,City Centre Bahrain,26.2154,50.5944,Centrepoint,Apparel
+Manama,City Centre Bahrain,26.2154,50.5944,Gym Nation,Health
+Manama,City Centre Bahrain,26.2154,50.5944,Jarir Bookstore,Books
+Muscat,Muscat Grand Mall,23.5880,58.3829,Zara,Apparel
+Muscat,Muscat Grand Mall,23.5880,58.3829,Lulu Hypermarket,Grocery
+Muscat,Muscat Grand Mall,23.5880,58.3829,Nike,Sportswear
+Muscat,Muscat Grand Mall,23.5880,58.3829,Starbucks,Food & Beverage
+Muscat,Muscat Grand Mall,23.5880,58.3829,Sephora,Beauty
+Muscat,Muscat Grand Mall,23.5880,58.3829,Samsung Experience,Electronics
+Muscat,Muscat Grand Mall,23.5880,58.3829,Massimo Dutti,Apparel
+Muscat,Muscat Grand Mall,23.5880,58.3829,Paul Restaurant,Food & Beverage
+Muscat,Muscat Grand Mall,23.5880,58.3829,Damas Jewellery,Jewellery
+Muscat,Muscat Grand Mall,23.5880,58.3829,VOX Cinemas,Entertainment
+Muscat,Muscat Grand Mall,23.5880,58.3829,Centrepoint,Apparel
+Muscat,Muscat Grand Mall,23.5880,58.3829,Fitness First,Health
+Muscat,Muscat Grand Mall,23.5880,58.3829,Jarir Bookstore,Books
